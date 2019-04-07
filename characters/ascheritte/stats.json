@@ -1,0 +1,111 @@
+{
+    "name": "Ascheritte",
+    "sex": "male",
+    "guild": null,
+    "title": null,
+    "archetype": {
+        "primary": "brawler"
+    },
+    "hp": {
+        "current": 35,
+        "total": 35
+    },
+    "pp": {
+        "current": 10,
+        "total": 16,
+        "committed": 6
+    },
+    "level": 12,
+    "expAvailable": 0,
+    "expAccumulated": -1,
+    "perks": [
+        {
+            "id": "armsmaster",
+            "level": 5
+        },
+        {
+            "id": "fleetfoot",
+            "level": 2
+        },
+        {
+            "id": "guardian",
+            "level": 2
+        }
+    ],
+    "techniques": [
+        {
+            "id": "concussiveStrike",
+            "level": 1
+        },
+        {
+            "id": "flurry",
+            "level": null
+        },
+        {
+            "id": "meleeMastery",
+            "level": null
+        },
+        {
+            "id": "titansStrength",
+            "level": null
+        },
+        {
+            "id": "twoHandedMastery",
+            "level": null
+        },
+        {
+            "id": "combatRegeneration",
+            "level": 1
+        },
+        {
+            "id": "ironBody",
+            "level": 1
+        },
+        {
+            "id": "sprint",
+            "level": 1
+        },
+        {
+            "id": "lightningReflexes",
+            "level": 1
+        }
+    ],
+    "celestial": [
+        {
+            "id": "strifeMemoriam"
+        },
+        {
+            "id": "questionMarkQuestionMarkQuestionMark"
+        }
+    ],
+    "skills": [
+        {
+            "id": "unarmed",
+            "level": 1
+        },
+        {
+            "id": "sabres",
+            "level": 1
+        },
+        {
+            "id": "polearms",
+            "level": 1
+        },
+        {
+            "id": "straightSwords",
+            "level": 1
+        },
+        {
+            "id": "greatswords",
+            "level": 1
+        },
+        {
+            "id": "shields",
+            "level": 0
+        },
+        {
+            "id": "longGuns",
+            "level": 0
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "equipped": [],
+    "uniqueIdentifier": {
+        "celestialGems": 3,
+        "credits": 3853,
+        "items": [
+            {
+                "id": "handcrafted_Hoarfrost",
+                "count": 1
+            }
+        ]
+    },
+    "backpack": [
+        {
+            "id": "fourLeafClover",
+            "count": 1
+        },
+        {
+            "id": "wroughtIronChain",
+            "count": 1
+        },
+        {
+            "id": "wroughtIronSpike",
+            "count": 3,
+            "effects": [
+                "poisoned"
+            ]
+        },
+        {
+            "id": "potionOfSickness",
+            "count": 1
+        },
+        {
+            "id": "protoHumanRib",
+            "count": 4
+        },
+        {
+            "id": "pristineBrandOfTheExile",
+            "count": 1
+        }
+    ]
+}
